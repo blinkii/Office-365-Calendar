@@ -1,4 +1,4 @@
-# Office-365-Calendrier
+# Office-365-Calendar
 Set Calendar Permission in Office 365    
 
 Choose 1 for Office 365 connect (Admin only)  
